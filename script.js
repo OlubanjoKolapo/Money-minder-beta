@@ -46,7 +46,7 @@ document.addEventListener('DOMContentLoaded', function() {
             
             // Mock action - redirect to a hypothetical app page
             // window.location.href = '/app';
-            alert('Thank you for your interest! This would connect to the FinanceAI app in production.');
+            alert('Thank you for your interest! This would connect to the MoneyMinder app in production.');
         });
     });
     
